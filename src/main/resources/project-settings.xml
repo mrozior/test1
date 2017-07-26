@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>pwpwcms</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedBeansPackage>pl.pwpw.main.cms.beans</selectedBeansPackage>
+  <selectedComponentsPackage>pl.pwpw.main.cms.components</selectedComponentsPackage>
+  <selectedRestPackage>pl.pwpw.main.cms.rest</selectedRestPackage>
+  <setupDone>false</setupDone>
+  <templateLanguage>freemarker</templateLanguage>
+  <extraTemplates>true</extraTemplates>
+  <useSamples>true</useSamples>
+</project>
